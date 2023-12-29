@@ -14,8 +14,7 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <!-- Keywords -->
-<img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
-<img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/Object_Detection-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Semantic_Segmentation-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JetsonBoard_&_RealSenseCAM-181717?style=flat-square"/> <img src="https://img.shields.io/badge/LiDAR-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Sensor_Fusion-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Motion_Planning_&_Control-181717?style=flat-square"/> <img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
 
 <br/>
 <br/>
