@@ -8,9 +8,9 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <img src="https://img.shields.io/badge/Scikit_learn-1e90ff?style=flat-square&logo=Scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS-181717?style=flat-square&logo=ROS&logoColor=white"/>\
 ✅✅✅🟩🟩:
-<img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
