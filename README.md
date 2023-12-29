@@ -21,8 +21,8 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 
 ### __🖊️ Paper__
 __Journal__\
-A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles\
-Feb 2024, Computers and Electronics in Agriculture, IF:8.3/
+_A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles_\
+`Feb 2024` `Computers and Electronics in Agriculture` `IF:8.3`
 
 __Conference__\
 ddd
