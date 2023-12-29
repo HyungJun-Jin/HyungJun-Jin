@@ -8,7 +8,7 @@ CV TechBlog 링크걸기
 __Computer Vision 👀 + Robotics__ 🤖 <br/>
 
 ✅✅✅✅🟩:
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit_learn-1e90ff?style=flat-square&logo=Scikitlearn&logoColor=white"/>
