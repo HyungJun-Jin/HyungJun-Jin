@@ -24,7 +24,12 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-008b8b?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-008b8b?style=flat-square&logo=arduino&logoColor=white"/>\
+✅✅🟩🟩🟩:
+<img src="https://img.shields.io/badge/jQuery-a52a2a?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-4169e1?style=flat-square&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7E600?style=flat-square&logo=javascript&logoColor=white"/>
 <!-- Keywords -->
 <img src="https://img.shields.io/badge/Object_Detection-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Semantic_Segmentation-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Face Recognition-181717?style=flat-square"/> <img src="https://img.shields.io/badge/GAN-181717?style=flat-square"/> <img src="https://img.shields.io/badge/NeRF-181717?style=flat-square"/>\
 <img src="https://img.shields.io/badge/JetsonBoard_&_RealSenseCAM-181717?style=flat-square"/> <img src="https://img.shields.io/badge/LiDAR-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Sensor_Fusion-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Motion_Planning_&_Control-181717?style=flat-square"/> <img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
