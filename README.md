@@ -13,14 +13,21 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<!-- Keywords -->
+<img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
+
+<br/>
+<br/>
+
+### __🖊️ Paper__
+__Journal__\
+A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles\
+Feb 2024, Computers and Electronics in Agriculture, IF:8.3
 
 
-
-<span style="background-color: #FFFF00">Marked text</span>
-
-
-   
-## 📁 Paper
+<!--
+### 📁 Paper
 ├─ 🖊️ Journal
 |TITLE|REPO|DOC|JOURNAL|JIF|
 |---|:---:|:---:|---|:---:|
@@ -31,15 +38,10 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 |---|:---:|:---:|---|
 |A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles|-|-|Computers and Electronics in Agriculture|
          
-  　
 ## 📁 Project
 ├─ 👾 Weeding Machine https://github.com/RoBoTics-JHJ/NeedleWeedingRobot.git
-
 ├─ 👾 Arduino
 
-
-   
-  　
 ## 📁 Program
 ├─ 🛠️ Useful      
 |TITLE|CONTENT|REPO|
@@ -47,8 +49,18 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 |bag2rgb| Get RGB images and a video from **'.bag'** file |[🖱️](https://github.com/RoBoTics-JHJ/bag2rgb)|
 
 └─
+-->
 
-<--
+
+
+
+
+
+
+
+
+
+<!--
 프로그램 아이콘
 https://github.com/progfay/shields-with-icon
 -->
