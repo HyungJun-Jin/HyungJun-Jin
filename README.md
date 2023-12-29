@@ -2,7 +2,7 @@
 
 thing i code with
 
-### __STAK__
+### __STACK__
 ✅✅✅✅🟩:
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
