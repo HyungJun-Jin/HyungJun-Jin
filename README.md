@@ -1,4 +1,6 @@
-각오 한 줄 
+<p align=center><img src="https://media.giphy.com/media/bzaNVfR0vPpAcYgcPt/giphy.gif" width="200">
+<h3 align="center">Wanna be a GREAT ROBOT ENGINEER</h4>
+
 
 CV TechBlog 링크걸기
 
