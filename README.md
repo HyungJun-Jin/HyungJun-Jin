@@ -50,7 +50,7 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 
 <br/>
 
-### __🎮Project__
+### __🎮PROJECT__
 될 수 있으면\
 [gif 사진]  [프로젝트 설명 및 링크] \
 안되면\
@@ -59,7 +59,7 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <br/>
 
 
-### __🖊️ Paper__
+### __🖊️PAPER__
 __Journal__\
 _A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles_ [Link after publish]\
 `Feb 2024` `Computers and Electronics in Agriculture` `IF:8.3`
