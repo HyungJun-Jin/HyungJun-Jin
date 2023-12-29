@@ -1,3 +1,9 @@
+각오 한 줄 
+
+CV TechBlog 링크걸기
+
+
+
 ### __💪STACK__
 __Computer Vision 👀 + Robotics__ 🤖 <br/>
 
@@ -17,11 +23,19 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <img src="https://img.shields.io/badge/Object_Detection-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Semantic_Segmentation-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JetsonBoard_&_RealSenseCAM-181717?style=flat-square"/> <img src="https://img.shields.io/badge/LiDAR-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Sensor_Fusion-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Motion_Planning_&_Control-181717?style=flat-square"/> <img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
 
 <br/>
+
+### __🎮Project__
+될 수 있으면\
+[gif 사진]  [프로젝트 설명 및 링크] \
+안되면\
+그냥 깔끔하게 설명 + 링크 + 사용 툴
+
 <br/>
+
 
 ### __🖊️ Paper__
 __Journal__\
-_A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles_\
+_A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles_ [Link after publish]\
 `Feb 2024` `Computers and Electronics in Agriculture` `IF:8.3`
 
 __Conference__\
