@@ -37,12 +37,17 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <!-- Keywords -->
 <img src="https://img.shields.io/badge/Object_Detection-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Semantic_Segmentation-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Face Recognition-181717?style=flat-square"/> <img src="https://img.shields.io/badge/GAN-181717?style=flat-square"/> <img src="https://img.shields.io/badge/NeRF-181717?style=flat-square"/>\
 <img src="https://img.shields.io/badge/JetsonBoard_&_RealSenseCAM-181717?style=flat-square"/> <img src="https://img.shields.io/badge/LiDAR-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Sensor_Fusion-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Motion_Planning_&_Control-181717?style=flat-square"/> <img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
+
+
+
+### __🎓EDUCATION__
 <!-- Bachelor's degree -->
 <img src="https://img.shields.io/badge/Bachelor's degree-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Mechanical_Design_Engineering (NanoBioMechanicalSystem)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/3.64/4.0 (Valedictorian😏)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
 <!-- Master's degree -->
 <img src="https://img.shields.io/badge/Master's degree-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Electronics and information Engineering (Studied AI)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/3.61/4.0-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
 <!-- NOW -->
 <img src="https://img.shields.io/badge/Now-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Still in the LAB (JBNU)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Research Assistant, Teaching Assistant & LAB Manager-181717?style=flat-square"/> <img src="https://img.shields.io/badge/I want to escape 🙏-ff0000?style=flat-square"/>
+
 <br/>
 
 ### __🎮Project__
