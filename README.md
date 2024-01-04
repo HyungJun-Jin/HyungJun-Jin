@@ -1,5 +1,5 @@
 <!-- <p align=center><img src="https://media.giphy.com/media/bzaNVfR0vPpAcYgcPt/giphy.gif" width="230"> -->
-<h3 align="center">"Wanna be a GREAT ROBOT ENGINEER"</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/bzaNVfR0vPpAcYgcPt/giphy.gif" width="120">   "Wanna be a GREAT ROBOT ENGINEER"  <img src="https://media.giphy.com/media/bzaNVfR0vPpAcYgcPt/giphy.gif" width="120"></h3>
 
 <br/>
 
