@@ -4,14 +4,13 @@
 <br/>
 
 <p align=center>
-         <a href="https://hyungjun-jin.github.io/">
-                  <img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon100.png" alt="dd">
-         </a>
+         <a href="https://hyungjun-jin.github.io/"><img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon100.png" alt="dd"></a>
+         <br/>
+         <text>CV & Blog<br/>[Ctrl + Click image]</text>
 </p>
 
 <br/>
 <br/>
-
 
 ### __💪STACK__
 __Computer Vision 👀 + Robotics__ 🤖 <br/>
