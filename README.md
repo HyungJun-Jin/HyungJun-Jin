@@ -3,11 +3,11 @@
 
 <br/>
 
-[![CLICK-Blog](https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png)](https://hyungjun-jin.github.io/) __[CLICK] CV & BLOG__
 
+<a href="https://hyungjun-jin.github.io/">
+         <img class="img_blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
+</a>
 
-<p align=center>[<img src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png" width="50">](https://hyungjun-jin.github.io/)
-<h3 align="center">"Wanna be a GREAT ROBOT ENGINEER"</h3>
 
          
 <br/>
