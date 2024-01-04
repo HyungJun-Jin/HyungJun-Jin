@@ -5,7 +5,7 @@
 
 
 <a href="https://hyungjun-jin.github.io/" target="_blank">
-         <img class="img_blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
+         <img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
 </a>
 
 
@@ -13,7 +13,6 @@
 <br/>
 <br/>
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 ### __💪STACK__
 __Computer Vision 👀 + Robotics__ 🤖 <br/>
