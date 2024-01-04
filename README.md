@@ -4,7 +4,7 @@
 <br/>
 
 
-<a href="https://hyungjun-jin.github.io/">
+<a href="https://hyungjun-jin.github.io/" target="_blank">
          <img class="img_blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
 </a>
 
