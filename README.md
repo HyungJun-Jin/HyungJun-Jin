@@ -1,13 +1,19 @@
 <p align=center><img src="https://media.giphy.com/media/bzaNVfR0vPpAcYgcPt/giphy.gif" width="230">
-<h3 align="center">"Wanna be a GREAT ROBOT ENGINEER"</h4>
+<h3 align="center">"Wanna be a GREAT ROBOT ENGINEER"</h3>
 
 <br/>
 
 [![CLICK-Blog](https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png)](https://hyungjun-jin.github.io/) __[CLICK] CV & BLOG__
 
+
+<p align=center>[<img src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png" width="50">](https://hyungjun-jin.github.io/)
+<h3 align="center">"Wanna be a GREAT ROBOT ENGINEER"</h3>
+
+         
 <br/>
 <br/>
 
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 ### __💪STACK__
 __Computer Vision 👀 + Robotics__ 🤖 <br/>
