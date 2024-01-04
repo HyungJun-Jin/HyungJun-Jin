@@ -3,23 +3,11 @@
 
 <br/>
 
-
-<a target="_self" href="https://hyungjun-jin.github.io/">
-         <img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
-</a>
-
-<a target="_blank" href="https://hyungjun-jin.github.io/">
-         <img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
-</a>
-
-<a target="_parent" href="https://hyungjun-jin.github.io/">
-         <img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
-</a>
-
-<a target="_top" href="https://hyungjun-jin.github.io/">
-         <img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png"/>
-</a>
-
+<p align=center>
+         <a href="https://hyungjun-jin.github.io/">
+                  <img class="img-blog" src="https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon100.png" alt="dd">
+         </a>
+</p>
 
 <br/>
 <br/>
