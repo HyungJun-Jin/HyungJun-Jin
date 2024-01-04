@@ -3,7 +3,7 @@
 
 <br/>
 
-[![CLICK-Blog](https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png)](https://hyungjun-jin.github.io/) __<-- [CLICK] CV & BLOG__
+[![CLICK-Blog](https://github.com/HyungJun-Jin/HyungJun-Jin.github.io/blob/main/images/favicon/robot_favicon32.png)](https://hyungjun-jin.github.io/) __![[CLICK]](https://hyungjun-jin.github.io/) CV & BLOG__
 
 <br/>
 <br/>
