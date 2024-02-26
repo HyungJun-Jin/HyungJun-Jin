@@ -46,11 +46,11 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 
 ### __🎓EDUCATION__
 <!-- Bachelor's degree -->
-<img src="https://img.shields.io/badge/Bachelor's degree-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Mechanical_Design_Engineering (NanoBioMechanicalSystem)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/4.09/4.5 (Valedictorian😏)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
+__Bachelor's degree__ : <img src="https://img.shields.io/badge/Mechanical_Design_Engineering (NanoBioMechanicalSystem)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/4.09/4.5 (Valedictorian😏)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
 <!-- Master's degree -->
-<img src="https://img.shields.io/badge/Master's degree-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Electronics and Information Engineering (Studied AI)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/4.06/4.5-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
+__Master's degree__ : <img src="https://img.shields.io/badge/Electronics and Information Engineering (Studied AI)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/4.06/4.5-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
 <!-- NOW -->
-<img src="https://img.shields.io/badge/Now-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Still in the LAB (JBNU)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Research Assistant, Teaching Assistant and LAB Manager as a Researcher-181717?style=flat-square"/> <img src="https://img.shields.io/badge/I want to escape 🙏-ff0000?style=flat-square"/>
+__Now__ : <img src="https://img.shields.io/badge/Still in the LAB (JBNU)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Research Assistant, Teaching Assistant and LAB Manager as a Researcher-181717?style=flat-square"/> <img src="https://img.shields.io/badge/I want to escape 🙏-ff0000?style=flat-square"/>
 
 <br/>
 
@@ -96,8 +96,22 @@ DGCNN https://github.com/WangYueFt/dgcnn
 
 
 
+<!--
+=================================================================================================================================================================
+=================================================================================================================================================================
+-->
 
 
+<!--
+### __🎓EDUCATION__
+<!-- Bachelor's degree -->
+<img src="https://img.shields.io/badge/Bachelor's degree-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Mechanical_Design_Engineering (NanoBioMechanicalSystem)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/4.09/4.5 (Valedictorian😏)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
+<!-- Master's degree -->
+<img src="https://img.shields.io/badge/Master's degree-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Electronics and Information Engineering (Studied AI)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/4.06/4.5-181717?style=flat-square"/> <img src="https://img.shields.io/badge/JBNU(Korea)-181717?style=flat-square"/>
+<!-- NOW -->
+<img src="https://img.shields.io/badge/Now-f0ffff?style=flat-square"/> : <img src="https://img.shields.io/badge/Still in the LAB (JBNU)-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Research Assistant, Teaching Assistant and LAB Manager as a Researcher-181717?style=flat-square"/> <img src="https://img.shields.io/badge/I want to escape 🙏-ff0000?style=flat-square"/>
+
+-->
 
 
 <!--
@@ -124,13 +138,6 @@ DGCNN https://github.com/WangYueFt/dgcnn
 
 └─
 -->
-
-
-
-
-
-
-
 
 
 
