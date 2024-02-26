@@ -57,7 +57,9 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 ### __🛠️C++TOOL__
 [Godbolt](https://godbolt.org/) : Disassembly(Compiler Explorer),
 [QuickBench](https://quick-bench.com/) : Runtime,
-[Easy-profiler](https://github.com/yse/easy_profiler) : Analysis(Multi-thread)
+[Easy-profiler](https://github.com/yse/easy_profiler) : Profiler(Multi-thread)
+[Valgrind](https://valgrind.org/docs/manual/quick-start.html) : Memory profiler (Massif - [heap](https://valgrind.org/docs/manual/ms-manual.html) allocation)
+
 
 CPU cycles:
 - Integer or bitwise op: 1cycle
