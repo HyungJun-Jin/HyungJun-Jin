@@ -55,8 +55,8 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <br/>
 
 ### __🛠️C++TOOL__
-[Godbolt](https://godbolt.org/) : Disassembly
-[QuickBench](https://quick-bench.com/) : Runtime
+[Godbolt](https://godbolt.org/) : Disassembly,
+[QuickBench](https://quick-bench.com/) : Runtime,
 [Easy-profiler](https://github.com/yse/easy_profiler) : Analysis
 
 CPU cycles:
