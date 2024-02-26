@@ -55,10 +55,10 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <br/>
 
 ### __🛠️C++TOOL__
-[Godbolt](https://godbolt.org/) : Disassembly(Compiler Explorer),
-[QuickBench](https://quick-bench.com/) : Runtime,
-[Easy-profiler](https://github.com/yse/easy_profiler) : Profiler(Multi-thread)
-[Valgrind](https://valgrind.org/docs/manual/quick-start.html) : Memory profiler (Massif - [heap](https://valgrind.org/docs/manual/ms-manual.html) allocation)
+[Godbolt](https://godbolt.org/) : Disassembly(Compiler Explorer) <br/>
+[QuickBench](https://quick-bench.com/) : Runtime <br/>
+[Easy-profiler](https://github.com/yse/easy_profiler) : Profiler(Multi-thread) <br/>
+[Valgrind](https://valgrind.org/docs/manual/quick-start.html) : Memory profiler ([Massif](https://valgrind.org/docs/manual/ms-manual.html) - heap allocation)
 
 
 CPU cycles:
