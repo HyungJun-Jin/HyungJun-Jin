@@ -39,8 +39,9 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
 <!-- Keywords -->
+__🗝️KEYWORDS__
 <img src="https://img.shields.io/badge/Object_Detection-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Semantic_Segmentation-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Face Recognition-181717?style=flat-square"/> <img src="https://img.shields.io/badge/GAN-181717?style=flat-square"/> <img src="https://img.shields.io/badge/NeRF-181717?style=flat-square"/>\
-<img src="https://img.shields.io/badge/JetsonBoard_&_RealSenseCAM-181717?style=flat-square"/> <img src="https://img.shields.io/badge/LiDAR-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Sensor_Fusion-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Motion_Planning_&_Control-181717?style=flat-square"/> <img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/JetsonBoard_&_RealSenseCAM-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Sensor_Fusion-181717?style=flat-square"/> <img src="https://img.shields.io/badge/Motion_Planning_&_Control-181717?style=flat-square"/> <img src="https://img.shields.io/badge/SLAM-181717?style=flat-square"/>
 
 
 
