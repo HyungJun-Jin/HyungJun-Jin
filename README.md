@@ -54,6 +54,19 @@ __Computer Vision 👀 + Robotics__ 🤖 <br/>
 
 <br/>
 
+### __🛠️C++TOOL__
+[Godbolt](https://godbolt.org/) : Disassembly
+[QuickBench](https://quick-bench.com/) : Runtime
+[Easy-profiler](https://github.com/yse/easy_profiler) : Analysis
+
+CPU cycles:
+- Integer or bitwise op: 1cycle
+- Floating-point add/sub/mul: 4 cycles
+- Folating-point div: ~30cycles
+- Floating-point exponentiation: ~200 cycles
+- Floating-point sqrt: ~60 cycles 
+- Conditional branch: avg 10 cycles
+
 ### __🎮PROJECT__
 될 수 있으면\
 [gif 사진]  [프로젝트 설명 및 링크] \
